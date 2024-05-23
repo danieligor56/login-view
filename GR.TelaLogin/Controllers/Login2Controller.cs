@@ -2,15 +2,12 @@
 
 namespace GR.TelaLogin.Controllers
 {
-    public class LoginController : Controller
+    public class Login2Controller : Controller
     {
         public IActionResult Index()
         {
             return View();
         }
-
-       
-
 
     }
 }

@@ -5,8 +5,7 @@
     align-items: center;
     justify-content: center;
     margin-top: 8rem;
-    margin-left: 13rem;
-    
+    margin-left: 13rem;   
 }
 
 .login {
@@ -15,7 +14,7 @@
     height: 35rem;
     display: inline-block ;
     align-content:center;
-    padding:4px;
+    padding:2rem;
     
 }
 

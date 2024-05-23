@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|c:\\users\\odin\\documents\\projetos\\gr.telalogin\\gr.telalogin\\views\\login\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|solutionrelative:gr.telalogin\\views\\login\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|c:\\users\\odin\\documents\\projetos\\gr.telalogin\\gr.telalogin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|solutionrelative:gr.telalogin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|c:\\users\\odin\\documents\\projetos\\gr.telalogin\\gr.telalogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|solutionrelative:gr.telalogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|c:\\users\\odin\\documents\\projetos\\gr.telalogin\\gr.telalogin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|solutionrelative:gr.telalogin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|c:\\users\\odin\\documents\\projetos\\gr.telalogin\\gr.telalogin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|solutionrelative:gr.telalogin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|c:\\users\\odin\\documents\\projetos\\gr.telalogin\\gr.telalogin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|solutionrelative:gr.telalogin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|c:\\users\\odin\\documents\\projetos\\gr.telalogin\\gr.telalogin\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|solutionrelative:gr.telalogin\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|c:\\users\\odin\\documents\\projetos\\gr.telalogin\\gr.telalogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|solutionrelative:gr.telalogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|c:\\users\\odin\\documents\\projetos\\gr.telalogin\\gr.telalogin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6095D2-444B-4C82-8E55-FB287EEEFC38}|GR.TelaLogin\\GR.TelaLogin.csproj|solutionrelative:gr.telalogin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,21 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\wwwroot\\css\\Login.css",
-              "RelativeDocumentMoniker": "GR.TelaLogin\\wwwroot\\css\\Login.css",
-              "ToolTip": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\wwwroot\\css\\Login.css",
-              "RelativeToolTip": "GR.TelaLogin\\wwwroot\\css\\Login.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-23T00:22:34.967Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -66,93 +32,23 @@
               "RelativeDocumentMoniker": "GR.TelaLogin\\Views\\Login\\Index.cshtml",
               "ToolTip": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Views\\Login\\Index.cshtml",
               "RelativeToolTip": "GR.TelaLogin\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T23:46:12.311Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Program.cs",
-              "RelativeDocumentMoniker": "GR.TelaLogin\\Program.cs",
-              "ToolTip": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Program.cs",
-              "RelativeToolTip": "GR.TelaLogin\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T04:03:27.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "GR.TelaLogin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "GR.TelaLogin\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T04:03:25.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "GR.TelaLogin\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "GR.TelaLogin\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T04:03:03.179Z",
+              "WhenOpened": "2024-05-23T19:27:15.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index2.cshtml",
-              "DocumentMoniker": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Views\\Login\\Index2.cshtml",
-              "RelativeDocumentMoniker": "GR.TelaLogin\\Views\\Login\\Index2.cshtml",
-              "ToolTip": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Views\\Login\\Index2.cshtml",
-              "RelativeToolTip": "GR.TelaLogin\\Views\\Login\\Index2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T04:02:24.882Z",
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "GR.TelaLogin\\wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "GR.TelaLogin\\wwwroot\\css\\Login.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-23T19:25:01.568Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GR.TelaLogin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GR.TelaLogin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T03:10:22.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "GR.TelaLogin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Odin\\Documents\\Projetos\\GR.TelaLogin\\GR.TelaLogin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "GR.TelaLogin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T03:10:19.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
